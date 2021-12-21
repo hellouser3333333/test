@@ -3,10 +3,9 @@ description:
 title: "Christmas wish list"
 label: "wishlist"
 body:
-  - type:
-    attributes: markdown
-      value: |
-        Dear Santa
-  - type: input
-    attributes:
-      placeholder: "Hello"
+- type: markdown
+  value: "## Welcome!"
+- type: markdown
+  attributes:
+    value: |
+      Thanks for taking the time to fill out this bug! If you need real-time help, join us on Discord.
