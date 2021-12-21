@@ -1,5 +1,5 @@
-name: Create your wishlist
-description: 
+name: Christmas wishlist
+description: Your wishlist here 
 title: "Christmas wish list"
 body:
 - type: markdown
