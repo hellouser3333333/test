@@ -8,6 +8,6 @@ body:
     value: |
         Dear Santa,
         
-        All I want for Christmas is <!-- What's your wish? -->!
+        All I want for Christmas is !
 
         John
