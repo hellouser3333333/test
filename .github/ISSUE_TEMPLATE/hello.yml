@@ -1,7 +1,6 @@
 name: Create your wishlist
 description: 
 title: "Christmas wish list"
-label: "wishlist"
 body:
 - type: markdown
   value: "## Welcome!"
