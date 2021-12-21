@@ -1,4 +1,6 @@
+name: "Dear Santa"
 on:
+  issue_comment:
   issues:
     types: [labeled]
 
@@ -6,7 +8,6 @@ jobs:
   dear-santa:
     runs-on: ubuntu-latest
     steps:
-      - name: Dear Santa Action
-        uses: imjohnbo/dear-santa-action@v1.0.5
+      - uses: imjohnbo/dear-santa-action@v1.0.5
         with:
           label: wishlist
