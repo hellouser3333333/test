@@ -3,7 +3,7 @@ description:
 title: "Christmas wish list"
 label: "wishlist"
 body:
-  - type:
+  - type: markdown
     attributes:
       value: |
         Dear Santa,
