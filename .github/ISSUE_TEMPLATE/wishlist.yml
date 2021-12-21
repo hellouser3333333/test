@@ -3,9 +3,9 @@ description:
 title: "Christmas wish list"
 labels: "wishlist"
 body:
-  - type: markdown
-    attributes:
-      value: |
+- type: markdown
+  attributes:
+    value: |
         Dear Santa,
         
         All I want for Christmas is <!-- What's your wish? -->!
