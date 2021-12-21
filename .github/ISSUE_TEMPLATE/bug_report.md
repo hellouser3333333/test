@@ -2,7 +2,7 @@
 name: Create your wishlist
 about: Create your christmas wish list ✨
 title: 'Christmas wish list'
-labels: ''
+labels: 'wishlist'
 assignees: ''
 
 ---
