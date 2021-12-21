@@ -1,10 +1,10 @@
 name: Create your wishlist
-description: 
+description: Hhhehehehe
 title: "Christmas wish list"
 label: "wishlist"
 body:
   - type:
-    attributes:
+    attributes: markdown
       value: |
         Dear Santa
   - type: input
