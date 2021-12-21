@@ -5,8 +5,7 @@ labels: 'wishlist'
 body:
   - type: markdown
     attributes:
-      value: |
-        Dear Santa,
+      value: Dear Santa,
   - type: textarea
     id: wish
     attributes:
@@ -15,7 +14,7 @@ body:
       placeholder: I'd like to have a computer, I'd like new clothes, ...
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: name
     attributes:
       label: Your name
