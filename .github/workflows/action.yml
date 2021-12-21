@@ -1,6 +1,5 @@
 name: "Dear Santa"
 on:
-  issue_comment:
   issues:
     types: [labeled]
 
