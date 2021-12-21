@@ -5,7 +5,7 @@ labels: 'wishlist'
 body:
   - type: markdown
     attributes:
-      value: Dear Santa,
+      value: "Dear Santa,"
   - type: textarea
     id: wish
     attributes:
